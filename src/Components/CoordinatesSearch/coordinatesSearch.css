@@ -1,0 +1,14 @@
+.search-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  padding: 10px;
+}
+.input {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.search-button-wrapper {
+  margin-top: 15px;
+}
